@@ -5,7 +5,7 @@ body {
   }
   h1 {
     text-align: center;
-    color: rgb(201, 247, 0);
+    color: rgb(0, 218, 247);
   }
   .fecha {
     width: 70%;
@@ -23,5 +23,5 @@ body {
     font-size: 50px;
     align-items: center;
     font-weight: bold;
-    color: rgb(0, 255, 115);
+    color: rgb(174, 0, 255);
 }

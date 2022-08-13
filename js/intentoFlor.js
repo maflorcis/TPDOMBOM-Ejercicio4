@@ -1,3 +1,9 @@
+/*
+4- Crear una web con un reloj que muestre la siguiente información:
+
+*/
+
+
 setInterval(() => {
     let fecha__completa = document.getElementById("fecha__completa");
     let hora__estado = document.getElementById("hora__estado");
