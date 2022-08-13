@@ -10,7 +10,7 @@ function obtenerHora(){
     // console.log(fechaActual.getMonth());
     // console.log(fechaActual.getFullYear());
     
-    let diaSemanas = ['Domingo', 'Lunes', 'Martes', 'Miercoles','Jueves','Viernes', 'Sabado'];
+    let diaSemanas = ['Domingo', 'Lunes', 'Martes', 'Miércoles','Jueves','Viernes', 'Sábado'];
     let meses = ['Enero', 'Febrero', 'Marzo', 'Abril','Mayo','Junio', 'Julio','Agosto','Septiembre', 'Octubre','Noviembre','Diciembre'];
     
     // console.log(diaSemanas[fechaActual.getDay()]);

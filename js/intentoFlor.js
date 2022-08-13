@@ -3,8 +3,8 @@ setInterval(() => {
     let hora__estado = document.getElementById("hora__estado");
     let hora__tiempo = document.getElementById("hora__tiempo");
     let fecha = new Date();
-    let semana = ["Domingo", "lunes", "martes", "miercoles", "jueves", "viernes", "sabado"]
-    let mes = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "octubre", "noviembre", "diciembre"]
+    let semana = ["Domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"]
+    let mes = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
     let diaNuevo;
     let estado;
     if (fecha.getHours() >= 12) {
